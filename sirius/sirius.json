@@ -1,7 +1,6 @@
 {
   "response": [
     {
-     "datetime": 1598611992,
      "filename": "file",
      "url": "https://example.com/ota-package.zip"
     }
